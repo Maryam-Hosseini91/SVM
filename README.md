@@ -25,7 +25,7 @@ The evaluation can be done using a suitable performance metric, such as accuracy
 The grid search algorithm will identify the combination of hyperparameters that achieves the best performance on the validation set. This combination can then be used to train the final SVM model, and the performance can be evaluated on an independent test set.
 
 Grid search helps in automating the process of hyperparameter tuning and finding the best hyperparameter values for SVM, optimizing its performance for a given dataset and task.
-## Project
+## Project:
 In this project, we will be analyzing the famous iris data set!
 #### The Data
 We will be using the famous Iris flower data set.
