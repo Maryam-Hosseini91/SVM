@@ -25,3 +25,25 @@ The evaluation can be done using a suitable performance metric, such as accuracy
 The grid search algorithm will identify the combination of hyperparameters that achieves the best performance on the validation set. This combination can then be used to train the final SVM model, and the performance can be evaluated on an independent test set.
 
 Grid search helps in automating the process of hyperparameter tuning and finding the best hyperparameter values for SVM, optimizing its performance for a given dataset and task.
+## Project
+In this project, we will be analyzing the famous iris data set!
+#### The Data
+We will be using the famous Iris flower data set.
+
+The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by Sir Ronald Fisher in the 1936 as an example of discriminant analysis.
+
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
+The iris dataset contains measurements for 150 iris flowers from three different species.
+
+The three classes in the Iris dataset:
+
+Iris-setosa (n=50)
+Iris-versicolor (n=50)
+Iris-virginica (n=50)
+The four features of the Iris dataset:
+
+sepal length in cm
+sepal width in cm
+petal length in cm
+petal width in cm
+
